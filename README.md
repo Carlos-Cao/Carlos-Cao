@@ -24,7 +24,7 @@ My name is Carlos and I am a Software Developer based in Auckland, New Zealand.
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-cao&theme=transparent&layout=compact"
   media="(prefers-color-scheme: light)"
 />
-<img height=auto width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-cao&show_icons=true" />
+<img height=auto width=34% src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-cao&show_icons=true" />
 </picture>
 
 
