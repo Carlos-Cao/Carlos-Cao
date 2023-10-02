@@ -1,8 +1,9 @@
 ## Hello There [👋](https://i.imgur.com/75TEk4A.gif)
 
-My name is Carlos and I am a Software Developer based in Auckland, New Zealand. 
+My name is Carlos and I am a Software Developer based in Auckland, New Zealand (NZ).
 
 ## Github Stats
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=carlos-cao&show_icons=true&theme=tokyonight"
@@ -26,5 +27,3 @@ My name is Carlos and I am a Software Developer based in Auckland, New Zealand.
 />
 <img height=auto width=34% src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-cao&show_icons=true" />
 </picture>
-
-
